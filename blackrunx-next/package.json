@@ -1,0 +1,19 @@
+{
+  "name": "@blackrun9/blackrunx-next",
+  "version": "1.0.0",
+  "description": "next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLACKRUN9/blackrunx.git"
+  },
+  "author": "bx-1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLACKRUN9/blackrunx/issues"
+  },
+  "homepage": "https://github.com/BLACKRUN9/blackrunx#readme"
+}
